@@ -1,3 +1,7 @@
+CREATE DATABASE universe;
+
+\c universe
+
 \i galaxy.sql
 \i insert_galaxy.sql
 
